@@ -1,6 +1,6 @@
 # Hi, I'm Fernando Ruggiero aka @3LdYn0.
 
-## I'm from Junín, a small city of Argentina and I'm going to tell my story:
+## I'm from Junín, a small city of Argentina and I'm going to tell you my story:
 
 > Once upon a time there was a young man who had to decide what kind of knowledge he needed to acquire in order to have a good quality of life. Based on his aptitudes, he enrolled in college to study accounting. Over the years he achieved the coveted degree.
 He started to work and after a few years he began to feel a sense of emptiness. It wasn't easy, but he managed to realize that he didn't really enjoy doing this kind of job and that he felt stuck. It was then that he made the decision to turn his life around and start studying web development.
