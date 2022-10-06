@@ -11,7 +11,7 @@ I'm interested in living as many experiences as possible, but above all I like t
 
 I'm currently starting my path to becoming a Full Stack Developer.
 
-I’m looking to collaborate on making the world a better place to live.
+I’m looking to collaborate on helping people live happier.
 
 Everyone who need to reach me *(unless you want to collect a debt)* can do so through the links below.
 
